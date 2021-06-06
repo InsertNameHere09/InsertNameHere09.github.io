@@ -6,4 +6,5 @@ body {
 .nicerlink{
     text-decoration: none;
     font-size: 30px;
+    font-color: rgba(68, 0, 255, 0.24);
 }
