@@ -3,3 +3,7 @@ body {
     text-align: center;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
+.nicerlink{
+    text-decoration: none;
+    font-size: 30px;
+}
